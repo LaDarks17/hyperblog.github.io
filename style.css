@@ -41,11 +41,15 @@ body {
 {
     font-size: 20px;
 }
-
+#post
+{
+    color: rgb(255, 255, 255);
+    padding: 0%;
+}
 #footer
 {
-    background: #777;
+    background: rgb(143, 52, 10);
     color: white;
     text-align: center;
-    padding: 0.5em;
+    padding: 1em;
 }
